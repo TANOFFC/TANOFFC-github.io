@@ -1,0 +1,83 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nova Meta - Anime Digital Store</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom, #2b2a4c, #19002e);
+      color: #fff;
+      background-image: url('https://i.ibb.co/qDnM8Gx/bg-anime.jpg');
+      background-size: cover;
+      background-attachment: fixed;
+    }
+    header {
+      text-align: center;
+      padding: 2rem;
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+    header h1 {
+      font-size: 2.5rem;
+      color: #ffd1f5;
+      text-shadow: 2px 2px #000;
+    }
+    .section {
+      padding: 2rem;
+      background-color: rgba(0, 0, 0, 0.5);
+      margin: 1rem;
+      border-radius: 15px;
+    }
+    .section h2 {
+      color: #93e0ff;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    .btn-wa {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.8rem 1.5rem;
+      background: #25d366;
+      color: #fff;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .btn-wa:hover {
+      background: #1eb250;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: rgba(0, 0, 0, 0.6);
+      color: #aaa;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nova Meta Anime Store</h1>
+    <p>Jualan digital 24 jam nonstop! 🌟</p>
+  </header>  <div class="section">
+    <h2>🔥 Layanan Kami</h2>
+    <ul>
+      <li>Top Up Game: FF, ML, Robux, PUBG, Genshin</li>
+      <li>Jasa Edit Anime, Poster, Logo, Thumbnail</li>
+      <li>Preset Alight Motion, CapCut, VN</li>
+      <li>Jual Akun Game: FF Sultan, ML Mythic, Roblox</li>
+      <li>APK Premium: CapCut Pro, AM Pro, PicsArt Gold</li>
+      <li>Jasa Joki: Grow a Garden, FF, ML</li>
+    </ul>
+    <a class="btn-wa" href="https://wa.me/6282335601428" target="_blank">Chat via WhatsApp</a>
+  </div>  <div class="section">
+    <h2>📦 Siap Order?</h2>
+    <p>Klik tombol WhatsApp di atas dan kirim format pemesanan sesuai produk kamu. Kami siap 24 jam!</p>
+  </div>  <footer>
+    &copy; 2025 Nova Meta. All rights reserved.
+  </footer>
+</body>
+</html>
